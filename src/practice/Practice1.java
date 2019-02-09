@@ -10,6 +10,12 @@ public class Practice1 {
 	{
 	Sytem.out.println("this is Vaibhav")
 	
+	/*
+	* This function is created by vivek
+	*/
+	public static vivek()
+	{
+		System.out.println("I am vivek");
 	}
 	static void p1()
 	{
