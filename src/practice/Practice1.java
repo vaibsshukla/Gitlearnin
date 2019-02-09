@@ -6,6 +6,11 @@ public class Practice1 {
 		p1();
 	}
 	
+	static void vaibhav()
+	{
+	Sytem.out.println("this is Vaibhav")
+	
+	}
 	static void p1()
 	{
 		for (int i = 0;i <=20;i++)
